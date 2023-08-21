@@ -1,0 +1,1 @@
+Este é um organizador de arquivos para a minha pasta de downloads. Eu pego todos os arquivos da pasta de downloads e, com base no tipo de arquivo, separo-os em pastas para facilitar a localização e, futuramente, excluir o que não for necessário.

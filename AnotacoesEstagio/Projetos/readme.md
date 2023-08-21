@@ -1,0 +1,1 @@
+Repositório responsável por conter alguns dos meus projetos pessoais. Boa parte deles é voltada para o desenvolvimento da minha lógica ou para a resolução de problemas que posso solucionar por meio de códigos. Busco constantemente movimentar e adicionar novos projetos por aqui.

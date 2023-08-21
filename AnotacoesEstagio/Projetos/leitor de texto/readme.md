@@ -1,0 +1,2 @@
+
+Uma das provas da minha faculdade é discursiva. Eu costumo escrever minha resposta em um bloco de notas e ir ajustando conforme vejo a necessidade. No entanto, quando vou passar para a resposta da prova, o sistema da faculdade não permite que eu copie e cole. Por isso, desenvolvi esse simples digitador que lê o arquivo TXT contendo a resposta da minha prova e automaticamente digita a resposta na prova.
