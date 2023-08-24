@@ -1,1 +1,0 @@
-Este é um jogo da forca que fiz para tentar pôr em prática um pouco da lógica de programação. Ele está bastante simples e ainda passará por melhorias.
