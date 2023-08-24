@@ -1,0 +1,1 @@
+Este projeto de site estático foi desenvolvido como uma forma de documentar o conhecimento adquirido durante os cursos oferecidos durante o estágio. Não foi criado com o objetivo de ser visualmente atraente, mas sim funcional. C:

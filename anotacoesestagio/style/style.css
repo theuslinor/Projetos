@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to top, black, #26173D, #7A4AC2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+main {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    width: 890%;
+    max-width: 1300px;
+    margin-top: 20px;
+    font-family: "Helvetica", Arial, Helvetica, sans-serif; /* Espaçamento entre o topo da página e o conteúdo */
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: white
+}
