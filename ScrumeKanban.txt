@@ -1,0 +1,27 @@
+Scrum: Agile project management framework.
+
+Daily Scrum / Daily Stand-Up: Daily meeting of less than 15 minutes allowing developers to discuss the sprint’s progress, identify blocking points and synchronize.
+
+Product Backlog: Prioritized list of project needs. The different User Stories, which compose it, represent the objectives to be achieved by the team.
+
+Sprint / Iteration: It is a cycle, lasting a month or less, which repeats itself.
+
+Sprint Planning: This is a sprint planning meeting. It consists of selecting elements of the Product Backlog to be carried out during the following sprint.
+
+Sprint Review: This is a working meeting where the team presents the work done during the sprint to stakeholders and especially to the customer. This is the opportunity to collect feedback and discuss the next steps of the project.
+
+Sprint Retrospective: This is the opportunity for the team to discuss the work process. The goal is to inspect the progress of the current sprint and to think of ways to improve the quality and the efficiency.
+
+Planning Poker: Technique for estimating the tasks to be performed. Each item in the Product Backlog is estimated collectively. This method gives a playful aspect to the estimation process.
+
+Product Owner: the PO is the voice of the customer. His/Her role is to maximize the value the Scrum team brings to the product each sprint.
+
+Scrum Master: He/She acts as a coach who helps the Scrum team and the organization to understand Scrum theory and to put it into practice.
+
+Story Point: This is a unit of measurement that is used to estimate the overall effort to fully implement a User Story.
+
+User Story: This is a functional request from key users of the product. It describes in a very simple way a feature that will add value to the product.
+
+Kanban: it is a working method inspired by the Lean approach focused on continuous process improvement.
+
+Burn Down Chart: This is a chart that represents the amount of work left to complete before the end of a sprint, versus time.
